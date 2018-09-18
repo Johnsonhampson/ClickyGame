@@ -12,7 +12,7 @@ Instructions
 Enjoy!
 
 Technologies used
-React
-ES6
-Bootstrap
-CSS
+- React
+- ES6
+- Bootstrap
+- CSS
