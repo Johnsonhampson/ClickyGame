@@ -9,7 +9,8 @@ Instructions
 3. Images are randomly sorted 
 4. If the same image is clicked two times you lose the game. 
 5. If you click all images without repeating - you win!
-Enjoy!
+
+Enjoy! https://johnsonhampson.github.io/ClickyGame/
 
 Technologies used
 - React
