@@ -1,0 +1,15 @@
+
+.navbar li {
+  display: inline-block;
+  text-align: center;
+}
+
+.itemRight {
+  float: left;
+  width: 100%;
+}
+
+
+body {
+  font-size: 30px;
+}

@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "name": "Bart Simpson",
+    "image": "bart.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bugs Bunny",
+    "image": "Bugs.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cayote",
+    "image": "cayote.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Donald Duck",
+    "image": "Donald.jpg"
+  },
+  {
+    "id": 5,
+    "name": "The Flinstones",
+    "image": "flinstone.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Goofy",
+    "image": "goofy.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Homer Simpson",
+    "image": "homer.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mickey Mouse",
+    "image": "Mickey.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Peter Griffin",
+    "image": "Peter.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Popeye the Sailor",
+    "image": "Popeye.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Scooby Doo",
+    "image": "scooby.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Shaggy",
+    "image": "Shaggy.jpg"
+  },
+  {
+    "id": 13,
+    "name": "SNOOPY",
+    "image": "snoopy.jpg"
+  },
+  {
+    "id": 14,
+    "name": "SpongeBob",
+    "image": "Spongebob.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Stewie Griffin",
+    "image": "stewie.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Sylvester",
+    "image": "sylvester.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Tom and Jerry",
+    "image": "TomJerry.jpg"
+  }
+]
